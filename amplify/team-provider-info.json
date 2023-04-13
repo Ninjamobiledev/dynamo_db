@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-comexampledynamoexam-staging-115607-authRole",
+      "UnauthRoleArn": "arn:aws:iam::817977002522:role/amplify-comexampledynamoexam-staging-115607-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::817977002522:role/amplify-comexampledynamoexam-staging-115607-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-comexampledynamoexam-staging-115607-deployment",
+      "UnauthRoleName": "amplify-comexampledynamoexam-staging-115607-unauthRole",
+      "StackName": "amplify-comexampledynamoexam-staging-115607",
+      "StackId": "arn:aws:cloudformation:us-east-1:817977002522:stack/amplify-comexampledynamoexam-staging-115607/5f634240-3e5b-11ed-b4ed-0ea868f97e31",
+      "AmplifyAppId": "d379rjz5p3ma46"
+    }
+  }
+}
